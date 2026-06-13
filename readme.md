@@ -815,6 +815,14 @@ Don't forget to give the project a star! Thanks again!
     <li>mobedoor</li>
     <li>nitramkh</li>
     <li>Adoldev40</li>
+    <li>s4daharu</li>
+    <li>crn0</li>
+    <li>meowmereo</li>
+    <li>Matthew Song</li>
+    <li>senia-psm</li>
+    <li>ltmerletti</li>
+    <li>thanhlouis</li>
+    <li>fnx4</li>
   </ul>
 </details>
 
